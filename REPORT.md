@@ -1,8 +1,6 @@
 ![CF](http://i.imgur.com/7v5ASc8.png) JS Framework Comparative Analysis
-
+=======================================================================
 ## Framework: Angular
---------------------------------------
-
 
 
 <p align="center">

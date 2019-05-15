@@ -1,9 +1,18 @@
 ![CF](http://i.imgur.com/7v5ASc8.png) JS Framework Comparative Analysis
-=======================================================================
 
-## Framework Name (change me)
+## Framework: Angular
+--------------------------------------
 
-### Research Conducted By: Student Names
+
+
+<p align="center">
+  <img style= float: left width="75" height="75" src="./assets/angular-wrangulars-compressed.png">
+</p> 
+
+<h4 align="center"> Angular Wrangulars </h4>
+<p align="center">By: Billy Bunn, Erin Trainor, Greg Dukes, & Jon Gentry</p>
+
+----------------------------------------
 
 ### Overall Score and Comments
 #### Score (Out of 10): 7
